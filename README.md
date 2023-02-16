@@ -22,3 +22,9 @@
 陈巍谈芯：8.1（中）NVDLA硬件架构之激活到数据接口  https://zhuanlan.zhihu.com/p/561962088
 
 陈巍谈芯：8.1（上）NVDLA硬件架构之卷积核心  https://zhuanlan.zhihu.com/p/561018305
+
+## 开源文档
+
+GPU开源 https://gpuopen.com/archive
+
+
