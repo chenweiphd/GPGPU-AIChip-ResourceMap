@@ -15,13 +15,17 @@
 
 ## GPGPU 芯片设计：原理与实践
 
-陈巍谈芯：2（上）GPGPU编程模型之CUDA  https://zhuanlan.zhihu.com/p/565897763
+陈巍：2（上）GPGPU编程模型之CUDA  https://zhuanlan.zhihu.com/p/565897763
 
-陈巍谈芯：3（上） GPGPU流式多处理器架构之取指译码发射  https://zhuanlan.zhihu.com/p/572302589
+陈巍：3（上） GPGPU流式多处理器架构之取指译码发射  https://zhuanlan.zhihu.com/p/572302589
 
-陈巍谈芯：8.1（中）NVDLA硬件架构之激活到数据接口  https://zhuanlan.zhihu.com/p/561962088
+陈巍：8.1（中）NVDLA硬件架构之激活到数据接口  https://zhuanlan.zhihu.com/p/561962088
 
-陈巍谈芯：8.1（上）NVDLA硬件架构之卷积核心  https://zhuanlan.zhihu.com/p/561018305
+陈巍：8.1（上）NVDLA硬件架构之卷积核心  https://zhuanlan.zhihu.com/p/561018305
+
+陈巍：博通3.5D ASIC（AI芯片）架构先进封装集成技术深入分析   https://zhuanlan.zhihu.com/p/16059400186
+
+陈巍：台积电SoW先进封装集成技术及其对半导体行业的深远影响       https://zhuanlan.zhihu.com/p/701236204
 
 ## 开源文档
 
