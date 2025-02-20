@@ -1,4 +1,4 @@
-# GPGPU-Hub
+# GPGPU-AIChip-ResourceMap
 
 ## 主要新闻 
 
